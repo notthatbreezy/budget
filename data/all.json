@@ -1,0 +1,7307 @@
+{
+	"name" : "Philadelpha Budget 2012",
+	"children" : [
+	{	"name" : "Department Of Finance",
+		"children" : [
+		{
+			"name" : "Auto-motor Vehicle-non-punitive Dam",
+			"children" : [
+				{"name" : "Auto-motor Vehicle-non-punitive Dam",		"value" : 7690.16}
+			]
+		},
+		{
+			"name" : "Highway Falls- Non-punitive Damages",
+			"children" : [
+				{"name" : "Highway Falls- Non-punitive Damages",		"value" : 50.0}
+			]
+		},
+		{
+			"name" : "Auto-motor Vehicle/non-punitive Dam",
+			"children" : [
+				{"name" : "Auto-motor Vehicle/non-punitive Dam",		"value" : 244460.24000000008}
+			]
+		},
+		{
+			"name" : "Fire Damage - Non-punitive Damages",
+			"children" : [
+				{"name" : "Fire Damage - Non-punitive Damages",		"value" : 1000.0}
+			]
+		},
+		{
+			"name" : "Pothole Damages-non-punitive Damage",
+			"children" : [
+				{"name" : "Pothole Damages-non-punitive Damage",		"value" : 18109.559999999998}
+			]
+		},
+		{
+			"name" : "Other Non-automotive/non-punitive",
+			"children" : [
+				{"name" : "Other Non-automotive/non-punitive",		"value" : 106970.54}
+			]
+		},
+		{
+			"name" : "Civil Rights - Non-punitive Damages",
+			"children" : [
+				{"name" : "Civil Rights - Non-punitive Damages",		"value" : 11479.93}
+			]
+		},
+		{
+			"name" : "Employee Claims-nonworkcomp/non-pun",
+			"children" : [
+				{"name" : "Employee Claims-nonworkcomp/non-pun",		"value" : 8578.98}
+			]
+		},
+		{
+			"name" : "Towing - Other Non-punitive Damages",
+			"children" : [
+				{"name" : "Towing - Other Non-punitive Damages",		"value" : 2760.0}
+			]
+		},
+		{
+			"name" : "Other Misc Claims - Non-punitive",
+			"children" : [
+				{"name" : "Other Misc Claims - Non-punitive",		"value" : 3116.9}
+			]
+		},
+		{
+			"name" : "Worker's Comp-disability Comp",
+			"children" : [
+				{"name" : "Worker's Comp-disability Comp",		"value" : 84830841.73000069}
+			]
+		},
+		{
+			"name" : "Worker's Comp-medical",
+			"children" : [
+				{"name" : "Worker's Comp-medical",		"value" : 27364478.38}
+			]
+		},
+		{
+			"name" : "Medicare Tax",
+			"children" : [
+				{"name" : "Medicare Tax",		"value" : 41513631.83999994}
+			]
+		},
+		{
+			"name" : "Pension-obligation Bond Payments",
+			"children" : [
+				{"name" : "Pension-obligation Bond Payments",		"value" : 190788054.61000007}
+			]
+		},
+		{
+			"name" : "Pension-actual",
+			"children" : [
+				{"name" : "Pension-actual",		"value" : 943408880.7800002}
+			]
+		},
+		{
+			"name" : "Fica Taxes",
+			"children" : [
+				{"name" : "Fica Taxes",		"value" : 88526356.59999987}
+			]
+		},
+		{
+			"name" : "Medical Health & Welfare Credit",
+			"children" : [
+				{"name" : "Medical Health & Welfare Credit",		"value" : 502363895.7300022}
+			]
+		},
+		{
+			"name" : "Group Life Insurance",
+			"children" : [
+				{"name" : "Group Life Insurance",		"value" : 7730123.66999996}
+			]
+		},
+		{
+			"name" : "Group Legal Insurance",
+			"children" : [
+				{"name" : "Group Legal Insurance",		"value" : 3837444.79}
+			]
+		},
+		{
+			"name" : "Unemployment Comp Insurance",
+			"children" : [
+				{"name" : "Unemployment Comp Insurance",		"value" : 5757992.86}
+			]
+		},
+		{
+			"name" : "Auto Mechanic Tool Insurance",
+			"children" : [
+				{"name" : "Auto Mechanic Tool Insurance",		"value" : 91825.0}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 727.1599999999997}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 44178.799999999974}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 235.8}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 21700.78}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 1598.51}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 1068182.2999999998}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 1347139.0499999998}
+			]
+		},
+		{
+			"name" : "Accounting And Auditing Services",
+			"children" : [
+				{"name" : "Accounting And Auditing Services",		"value" : 50000.0}
+			]
+		},
+		{
+			"name" : "Legal Services",
+			"children" : [
+				{"name" : "Legal Services",		"value" : 40096029.07999999}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 79752.15}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 10746.0}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 15608.150000000001}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 48819.69999999999}
+			]
+		},
+		{
+			"name" : "Witness Fees",
+			"children" : [
+				{"name" : "Witness Fees",		"value" : 103175.96999999994}
+			]
+		},
+		{
+			"name" : "Insurance And Official Bonds",
+			"children" : [
+				{"name" : "Insurance And Official Bonds",		"value" : 1194753.35}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 17.33}
+			]
+		},
+		{
+			"name" : "Payments For Burials And Graves",
+			"children" : [
+				{"name" : "Payments For Burials And Graves",		"value" : 112375.0}
+			]
+		},
+		{
+			"name" : "Other Expenses (not Othrwse Clssfd)",
+			"children" : [
+				{"name" : "Other Expenses (not Othrwse Clssfd)",		"value" : 1116.0}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 17008.62}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 465.08}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 24646.290000000005}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 11107.130000000001}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 24754.92}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 709.0}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 7811.32}
+			]
+		},
+		{
+			"name" : "Meritorious Awards",
+			"children" : [
+				{"name" : "Meritorious Awards",		"value" : 28000.0}
+			]
+		},
+		{
+			"name" : "Contributions-ed & Non-prof Rec Org",
+			"children" : [
+				{"name" : "Contributions-ed & Non-prof Rec Org",		"value" : 74339207.0}
+			]
+		},
+		{
+			"name" : "Refunds",
+			"children" : [
+				{"name" : "Refunds",		"value" : 382.2199999999999}
+			]
+		},
+		{
+			"name" : "Contributions-gov & Non-prof Not Ed",
+			"children" : [
+				{"name" : "Contributions-gov & Non-prof Not Ed",		"value" : 2423861.25}
+			]
+		},
+		{
+			"name" : "Auto - Motor Vehicle",
+			"children" : [
+				{"name" : "Auto - Motor Vehicle",		"value" : 5027271.48}
+			]
+		},
+		{
+			"name" : "Highway Falls",
+			"children" : [
+				{"name" : "Highway Falls",		"value" : 1331730.82}
+			]
+		},
+		{
+			"name" : "Sidewalk Falls",
+			"children" : [
+				{"name" : "Sidewalk Falls",		"value" : 4460365.78}
+			]
+		},
+		{
+			"name" : "Other Non-automotive",
+			"children" : [
+				{"name" : "Other Non-automotive",		"value" : 5446157.19}
+			]
+		},
+		{
+			"name" : "Auto -- Motor Vehicle",
+			"children" : [
+				{"name" : "Auto -- Motor Vehicle",		"value" : 1000.0}
+			]
+		},
+		{
+			"name" : "Demolition Damages",
+			"children" : [
+				{"name" : "Demolition Damages",		"value" : 136617.6}
+			]
+		},
+		{
+			"name" : "Civil Rights",
+			"children" : [
+				{"name" : "Civil Rights",		"value" : 14373893.13}
+			]
+		},
+		{
+			"name" : "Contract Claims-city Breach Contrct",
+			"children" : [
+				{"name" : "Contract Claims-city Breach Contrct",		"value" : 2056481.0}
+			]
+		},
+		{
+			"name" : "Employee Claims -- Not Workman Comp",
+			"children" : [
+				{"name" : "Employee Claims -- Not Workman Comp",		"value" : 11165.0}
+			]
+		},
+		{
+			"name" : "Towing -- Abandoned Vehicles",
+			"children" : [
+				{"name" : "Towing -- Abandoned Vehicles",		"value" : 4750.0}
+			]
+		},
+		{
+			"name" : "Civil Rights - Attorney Fees",
+			"children" : [
+				{"name" : "Civil Rights - Attorney Fees",		"value" : 473812.6}
+			]
+		},
+		{
+			"name" : "Other Miscellaneous Claims",
+			"children" : [
+				{"name" : "Other Miscellaneous Claims",		"value" : 55337.41}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 9930128.1}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Managing Director",
+		"children" : [
+		{
+			"name" : "Purchase Of Services Control",
+			"children" : [
+				{"name" : "Purchase Of Services Control",		"value" : 13421.48}
+			]
+		},
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 616.27}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 12340.759999999998}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 26429.52000000001}
+			]
+		},
+		{
+			"name" : "Licenses Permits Inspection Charges",
+			"children" : [
+				{"name" : "Licenses Permits Inspection Charges",		"value" : 140.0}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 167729.78999999998}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 8593.7}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 301.39}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 7056822.590000002}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 20608.0}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 17811.4}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 16396.2}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 74462.04000000001}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 532.13}
+			]
+		},
+		{
+			"name" : "Ground And Building Rental",
+			"children" : [
+				{"name" : "Ground And Building Rental",		"value" : 21018.0}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 15514.96000000001}
+			]
+		},
+		{
+			"name" : "Other Expenses (not Othrwse Clssfd)",
+			"children" : [
+				{"name" : "Other Expenses (not Othrwse Clssfd)",		"value" : 109711.74000000002}
+			]
+		},
+		{
+			"name" : "Materials & Supplies Control",
+			"children" : [
+				{"name" : "Materials & Supplies Control",		"value" : 56.35}
+			]
+		},
+		{
+			"name" : "Agricultural And Botanical",
+			"children" : [
+				{"name" : "Agricultural And Botanical",		"value" : 33290.56}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 1551.5200000000002}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 221948.62000000008}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 14424.170000000002}
+			]
+		},
+		{
+			"name" : "General Equipment And Machinery",
+			"children" : [
+				{"name" : "General Equipment And Machinery",		"value" : 22664.670000000002}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 10772.800000000001}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 3038.23}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 1061.6999999999998}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 2168.6}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 65829.86}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 16893.18}
+			]
+		},
+		{
+			"name" : "Small Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Small Power Tools And Hand Tools",		"value" : 21999.530000000002}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 4378.250000000001}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 1277.5}
+			]
+		},
+		{
+			"name" : "Recreational And Educational",
+			"children" : [
+				{"name" : "Recreational And Educational",		"value" : 8195.75}
+			]
+		},
+		{
+			"name" : "Motor Vehicle Parts And Accessories",
+			"children" : [
+				{"name" : "Motor Vehicle Parts And Accessories",		"value" : 18489.27}
+			]
+		},
+		{
+			"name" : "Liquid Propane Gas (lpg)",
+			"children" : [
+				{"name" : "Liquid Propane Gas (lpg)",		"value" : 482.6}
+			]
+		},
+		{
+			"name" : "Other Materials And Supplies (noc)",
+			"children" : [
+				{"name" : "Other Materials And Supplies (noc)",		"value" : 2449.8999999999996}
+			]
+		},
+		{
+			"name" : "Bakeshop, Dining Room And Kitchen",
+			"children" : [
+				{"name" : "Bakeshop, Dining Room And Kitchen",		"value" : 3521.0}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 581.31}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artist",
+			"children" : [
+				{"name" : "Precision, Photographic And Artist",		"value" : 28618.74}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 2062.0}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 9586.93}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 10920630.090000002}
+			]
+		}
+
+	]
+	},
+	{	"name" : "District Attorney",
+		"children" : [
+		{
+			"name" : "Purchase Of Services Control",
+			"children" : [
+				{"name" : "Purchase Of Services Control",		"value" : 519.7}
+			]
+		},
+		{
+			"name" : "Cleaning And Laundering",
+			"children" : [
+				{"name" : "Cleaning And Laundering",		"value" : 23500.0}
+			]
+		},
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 1092.5}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 116662.11000000006}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 27188.210000000017}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 110574.48999999999}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 2767.4500000000003}
+			]
+		},
+		{
+			"name" : "Overtime Meals",
+			"children" : [
+				{"name" : "Overtime Meals",		"value" : 1649.32}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 1051638.4200000074}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 9445.220000000001}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 2925.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 1310.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 53495.28000000007}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 69085.37000000001}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 6891.55}
+			]
+		},
+		{
+			"name" : "Rental Of Parking Spaces",
+			"children" : [
+				{"name" : "Rental Of Parking Spaces",		"value" : 8140.0}
+			]
+		},
+		{
+			"name" : "Other Expenses (not Othrwse Clssfd)",
+			"children" : [
+				{"name" : "Other Expenses (not Othrwse Clssfd)",		"value" : 39208.490000000005}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 46424.18}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 23000.0}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 1180.3400000000001}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 158.08}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 220771.48000000019}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 121643.14}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 45666.46}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 3197.6499999999996}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 2729.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 28077886.799999975}
+			]
+		}
+
+	]
+	},
+	{	"name" : "City Council",
+		"children" : [
+		{
+			"name" : "Cleaning And Laundering",
+			"children" : [
+				{"name" : "Cleaning And Laundering",		"value" : 710.0}
+			]
+		},
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 409.98}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 101603.70000000001}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 895.75}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 4259.1900000000005}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 8017.38}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 618248.5599999994}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 351353.58999999997}
+			]
+		},
+		{
+			"name" : "Legal Services",
+			"children" : [
+				{"name" : "Legal Services",		"value" : 155.8}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 624.95}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 9913.79}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 145238.74999999997}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 80087.07999999999}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 18881.18}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 103020.66000000003}
+			]
+		},
+		{
+			"name" : "Other Expenses (not Othrwse Clssfd)",
+			"children" : [
+				{"name" : "Other Expenses (not Othrwse Clssfd)",		"value" : 443.13}
+			]
+		},
+		{
+			"name" : "Agricultural And Botanical",
+			"children" : [
+				{"name" : "Agricultural And Botanical",		"value" : 300.0}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 8143.62}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 1154.91}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 1156.6}
+			]
+		},
+		{
+			"name" : "General Equipment And Machinery",
+			"children" : [
+				{"name" : "General Equipment And Machinery",		"value" : 23.14}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 906.2199999999999}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 6050.429999999999}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 72459.55999999997}
+			]
+		},
+		{
+			"name" : "Plumbing/air Conditioning/space Htg",
+			"children" : [
+				{"name" : "Plumbing/air Conditioning/space Htg",		"value" : 875.0999999999999}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 91902.23}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 824.85}
+			]
+		},
+		{
+			"name" : "Janitorial And Laundry",
+			"children" : [
+				{"name" : "Janitorial And Laundry",		"value" : 240.0}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 2975.89}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 37740.020000000004}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 59661.62}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 12252892.950000001}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Police",
+		"children" : [
+		{
+			"name" : "Cleaning And Laundering",
+			"children" : [
+				{"name" : "Cleaning And Laundering",		"value" : 3127865.89}
+			]
+		},
+		{
+			"name" : "Janitorial Services",
+			"children" : [
+				{"name" : "Janitorial Services",		"value" : 11393.289999999999}
+			]
+		},
+		{
+			"name" : "Refuse/garbage/silt/sludge Removal",
+			"children" : [
+				{"name" : "Refuse/garbage/silt/sludge Removal",		"value" : 14853.579999999998}
+			]
+		},
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 460.99}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 116082.03}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 143626.4499999998}
+			]
+		},
+		{
+			"name" : "Return Of Fugitives",
+			"children" : [
+				{"name" : "Return Of Fugitives",		"value" : 52586.31000000001}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 12534.3}
+			]
+		},
+		{
+			"name" : "Overtime Meals",
+			"children" : [
+				{"name" : "Overtime Meals",		"value" : 375123.0}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 22540.0}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 1738302.7500000023}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 9.0}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 10741.189999999999}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 348495.33999999997}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 864576.0499999882}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 46285.76}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 138125.2800000001}
+			]
+		},
+		{
+			"name" : "Purchase Services-imprest Advances",
+			"children" : [
+				{"name" : "Purchase Services-imprest Advances",		"value" : 212.0}
+			]
+		},
+		{
+			"name" : "Agricultural And Botanical",
+			"children" : [
+				{"name" : "Agricultural And Botanical",		"value" : 370.88}
+			]
+		},
+		{
+			"name" : "Animal, Livestock And Marine Life",
+			"children" : [
+				{"name" : "Animal, Livestock And Marine Life",		"value" : 61161.67999999999}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 48373.92}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 47050.62}
+			]
+		},
+		{
+			"name" : "Chemicals And Gases",
+			"children" : [
+				{"name" : "Chemicals And Gases",		"value" : 7633.799999999999}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 3781768.56}
+			]
+		},
+		{
+			"name" : "Cordage And Fibers",
+			"children" : [
+				{"name" : "Cordage And Fibers",		"value" : 9344.93}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 53512.78}
+			]
+		},
+		{
+			"name" : "General Equipment And Machinery",
+			"children" : [
+				{"name" : "General Equipment And Machinery",		"value" : 26419.65}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 795000.0700000002}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 186145.84999999998}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 10118.16}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 440243.5900000001}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 231593.12000000017}
+			]
+		},
+		{
+			"name" : "Nautical And Aeronautical",
+			"children" : [
+				{"name" : "Nautical And Aeronautical",		"value" : 391998.62999999995}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 543387.3200000008}
+			]
+		},
+		{
+			"name" : "Small Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Small Power Tools And Hand Tools",		"value" : 800.25}
+			]
+		},
+		{
+			"name" : "Plumbing/air Conditioning/space Htg",
+			"children" : [
+				{"name" : "Plumbing/air Conditioning/space Htg",		"value" : 2319.41}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 812132.0099999999}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 182893.01}
+			]
+		},
+		{
+			"name" : "Recreational And Educational",
+			"children" : [
+				{"name" : "Recreational And Educational",		"value" : 18460.82}
+			]
+		},
+		{
+			"name" : "Motor Vehicle Parts And Accessories",
+			"children" : [
+				{"name" : "Motor Vehicle Parts And Accessories",		"value" : 28152.34}
+			]
+		},
+		{
+			"name" : "Lubricants",
+			"children" : [
+				{"name" : "Lubricants",		"value" : 625.66}
+			]
+		},
+		{
+			"name" : "Liquid Propane Gas (lpg)",
+			"children" : [
+				{"name" : "Liquid Propane Gas (lpg)",		"value" : 16933.75}
+			]
+		},
+		{
+			"name" : "Gasoline",
+			"children" : [
+				{"name" : "Gasoline",		"value" : 78459.73000000001}
+			]
+		},
+		{
+			"name" : "Bakeshop, Dining Room And Kitchen",
+			"children" : [
+				{"name" : "Bakeshop, Dining Room And Kitchen",		"value" : 89.0}
+			]
+		},
+		{
+			"name" : "Construction, Dredging, Conveying",
+			"children" : [
+				{"name" : "Construction, Dredging, Conveying",		"value" : 2205.0}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 2433.0}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Emergency",
+			"children" : [
+				{"name" : "Fire Fighting And Emergency",		"value" : 265036.35}
+			]
+		},
+		{
+			"name" : "Janitorial And Laundry",
+			"children" : [
+				{"name" : "Janitorial And Laundry",		"value" : 1429.0}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 56649.59999999999}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artist",
+			"children" : [
+				{"name" : "Precision, Photographic And Artist",		"value" : 21129.87}
+			]
+		},
+		{
+			"name" : "Printing And Binding",
+			"children" : [
+				{"name" : "Printing And Binding",		"value" : 869.51}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 9943.35}
+			]
+		},
+		{
+			"name" : "Vehicles -- Motor And Motorless",
+			"children" : [
+				{"name" : "Vehicles -- Motor And Motorless",		"value" : 176.7}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 284648.75}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 604668516.6900033}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Streets",
+		"children" : [
+		{
+			"name" : "Cleaning And Laundering",
+			"children" : [
+				{"name" : "Cleaning And Laundering",		"value" : 11949.650000000001}
+			]
+		},
+		{
+			"name" : "Janitorial Services",
+			"children" : [
+				{"name" : "Janitorial Services",		"value" : 235.0}
+			]
+		},
+		{
+			"name" : "Refuse/garbage/silt/sludge Removal",
+			"children" : [
+				{"name" : "Refuse/garbage/silt/sludge Removal",		"value" : 43060099.98999998}
+			]
+		},
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 162.47}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 522.0999999999999}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 15239.410000000002}
+			]
+		},
+		{
+			"name" : "Licenses Permits Inspection Charges",
+			"children" : [
+				{"name" : "Licenses Permits Inspection Charges",		"value" : 112.0}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 12750.460000000003}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 517835.89}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 1892738.1700000009}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 30350.420000000002}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 17654.75}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 523249.42000000045}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 88855.46000000002}
+			]
+		},
+		{
+			"name" : "Purchase Services-imprest Advances",
+			"children" : [
+				{"name" : "Purchase Services-imprest Advances",		"value" : 1856.3499999999997}
+			]
+		},
+		{
+			"name" : "Other Expenses (not Othrwse Clssfd)",
+			"children" : [
+				{"name" : "Other Expenses (not Othrwse Clssfd)",		"value" : 243.0}
+			]
+		},
+		{
+			"name" : "Agricultural And Botanical",
+			"children" : [
+				{"name" : "Agricultural And Botanical",		"value" : 4680.0}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 10561.400000000001}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 662285.8199999996}
+			]
+		},
+		{
+			"name" : "Chemicals And Gases",
+			"children" : [
+				{"name" : "Chemicals And Gases",		"value" : 643472.51}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 228875.68000000002}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 1307167.39}
+			]
+		},
+		{
+			"name" : "General Equipment And Machinery",
+			"children" : [
+				{"name" : "General Equipment And Machinery",		"value" : 76852.59}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 81347.77999999997}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 3759.2699999999995}
+			]
+		},
+		{
+			"name" : "Fuel -- Heating And Lighting",
+			"children" : [
+				{"name" : "Fuel -- Heating And Lighting",		"value" : 310077.0}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 377047.54999999976}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 6515.0}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 167061.21999999997}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 91077.23000000013}
+			]
+		},
+		{
+			"name" : "Small Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Small Power Tools And Hand Tools",		"value" : 114009.64000000003}
+			]
+		},
+		{
+			"name" : "Plumbing/air Conditioning/space Htg",
+			"children" : [
+				{"name" : "Plumbing/air Conditioning/space Htg",		"value" : 16627.910000000003}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 120569.00999999998}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 79095.37}
+			]
+		},
+		{
+			"name" : "Recreational And Educational",
+			"children" : [
+				{"name" : "Recreational And Educational",		"value" : 6791.0}
+			]
+		},
+		{
+			"name" : "Motor Vehicle Parts And Accessories",
+			"children" : [
+				{"name" : "Motor Vehicle Parts And Accessories",		"value" : 13453.769999999997}
+			]
+		},
+		{
+			"name" : "Lubricants",
+			"children" : [
+				{"name" : "Lubricants",		"value" : 575.52}
+			]
+		},
+		{
+			"name" : "Liquid Propane Gas (lpg)",
+			"children" : [
+				{"name" : "Liquid Propane Gas (lpg)",		"value" : 44023.159999999865}
+			]
+		},
+		{
+			"name" : "Other Materials And Supplies (noc)",
+			"children" : [
+				{"name" : "Other Materials And Supplies (noc)",		"value" : 9.99}
+			]
+		},
+		{
+			"name" : "Equipment Control",
+			"children" : [
+				{"name" : "Equipment Control",		"value" : 1285.0}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 15322.0}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 84228.85999999999}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artist",
+			"children" : [
+				{"name" : "Precision, Photographic And Artist",		"value" : 13513.98}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 6900.0}
+			]
+		},
+		{
+			"name" : "Vehicles -- Motor And Motorless",
+			"children" : [
+				{"name" : "Vehicles -- Motor And Motorless",		"value" : 137172.12000000002}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 73886.37999999999}
+			]
+		},
+		{
+			"name" : "Contributions-ed & Non-prof Rec Org",
+			"children" : [
+				{"name" : "Contributions-ed & Non-prof Rec Org",		"value" : 48171.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 72951444.38999994}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Department Of Public Health",
+		"children" : [
+		{
+			"name" : "Cleaning And Laundering",
+			"children" : [
+				{"name" : "Cleaning And Laundering",		"value" : 1204.27}
+			]
+		},
+		{
+			"name" : "Janitorial Services",
+			"children" : [
+				{"name" : "Janitorial Services",		"value" : 13898.89}
+			]
+		},
+		{
+			"name" : "Refuse/garbage/silt/sludge Removal",
+			"children" : [
+				{"name" : "Refuse/garbage/silt/sludge Removal",		"value" : 130272.71999999996}
+			]
+		},
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 45363.51999999998}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 7221.460000000003}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 47035.909999999996}
+			]
+		},
+		{
+			"name" : "Licenses Permits Inspection Charges",
+			"children" : [
+				{"name" : "Licenses Permits Inspection Charges",		"value" : 13846.0}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 17538.84}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 15731.489999999998}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 3305.0}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 58220126.46999992}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 237047.51}
+			]
+		},
+		{
+			"name" : "Accounting And Auditing Services",
+			"children" : [
+				{"name" : "Accounting And Auditing Services",		"value" : 10000.0}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 21201.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 2720.25}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 731592.1000000015}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 18696.739999999998}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 21084.140000000003}
+			]
+		},
+		{
+			"name" : "Rental Of Parking Spaces",
+			"children" : [
+				{"name" : "Rental Of Parking Spaces",		"value" : 131.76}
+			]
+		},
+		{
+			"name" : "Purchase Services-imprest Advances",
+			"children" : [
+				{"name" : "Purchase Services-imprest Advances",		"value" : 5402.4299999999985}
+			]
+		},
+		{
+			"name" : "Other Expenses (not Othrwse Clssfd)",
+			"children" : [
+				{"name" : "Other Expenses (not Othrwse Clssfd)",		"value" : 4.0}
+			]
+		},
+		{
+			"name" : "Bakeshop, Dining Room And Kitchen",
+			"children" : [
+				{"name" : "Bakeshop, Dining Room And Kitchen",		"value" : 2578.12}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 13033.869999999999}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 41570.73}
+			]
+		},
+		{
+			"name" : "Chemicals And Gases",
+			"children" : [
+				{"name" : "Chemicals And Gases",		"value" : 517412.1899999998}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 21351.82}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 51693.49999999999}
+			]
+		},
+		{
+			"name" : "General Equipment And Machinery",
+			"children" : [
+				{"name" : "General Equipment And Machinery",		"value" : 32459.639999999996}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 5631.82}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 422.21999999999997}
+			]
+		},
+		{
+			"name" : "Fuel -- Heating And Lighting",
+			"children" : [
+				{"name" : "Fuel -- Heating And Lighting",		"value" : 38.99}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 31667.59}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 3005996.179999997}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 176551.09999999992}
+			]
+		},
+		{
+			"name" : "Nautical And Aeronautical",
+			"children" : [
+				{"name" : "Nautical And Aeronautical",		"value" : 294.0}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 230254.89000000016}
+			]
+		},
+		{
+			"name" : "Small Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Small Power Tools And Hand Tools",		"value" : 6917.900000000001}
+			]
+		},
+		{
+			"name" : "Plumbing/air Conditioning/space Htg",
+			"children" : [
+				{"name" : "Plumbing/air Conditioning/space Htg",		"value" : 43630.530000000006}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 42442.95}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 81941.57999999999}
+			]
+		},
+		{
+			"name" : "Motor Vehicle Parts And Accessories",
+			"children" : [
+				{"name" : "Motor Vehicle Parts And Accessories",		"value" : 446.32}
+			]
+		},
+		{
+			"name" : "#2 Diesel Fuel",
+			"children" : [
+				{"name" : "#2 Diesel Fuel",		"value" : 407.62}
+			]
+		},
+		{
+			"name" : "Liquid Propane Gas (lpg)",
+			"children" : [
+				{"name" : "Liquid Propane Gas (lpg)",		"value" : 224.92}
+			]
+		},
+		{
+			"name" : "Gasoline",
+			"children" : [
+				{"name" : "Gasoline",		"value" : 91.02}
+			]
+		},
+		{
+			"name" : "Equipment Control",
+			"children" : [
+				{"name" : "Equipment Control",		"value" : 23015.489999999998}
+			]
+		},
+		{
+			"name" : "Agricultural And Botanical",
+			"children" : [
+				{"name" : "Agricultural And Botanical",		"value" : 3487.0}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 6883.89}
+			]
+		},
+		{
+			"name" : "Janitorial And Laundry",
+			"children" : [
+				{"name" : "Janitorial And Laundry",		"value" : 5947.05}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 17028.79}
+			]
+		},
+		{
+			"name" : "Recreational And Educational",
+			"children" : [
+				{"name" : "Recreational And Educational",		"value" : 13346.61}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 105512.01}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 30476.919999999995}
+			]
+		},
+		{
+			"name" : "Payments To Capital Projects Fund",
+			"children" : [
+				{"name" : "Payments To Capital Projects Fund",		"value" : 500000.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 39754915.84000009}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Recreation",
+		"children" : [
+		{
+			"name" : "Cleaning And Laundering",
+			"children" : [
+				{"name" : "Cleaning And Laundering",		"value" : 8440.0}
+			]
+		},
+		{
+			"name" : "Janitorial Services",
+			"children" : [
+				{"name" : "Janitorial Services",		"value" : 21984.0}
+			]
+		},
+		{
+			"name" : "Refuse/garbage/silt/sludge Removal",
+			"children" : [
+				{"name" : "Refuse/garbage/silt/sludge Removal",		"value" : 23975.21}
+			]
+		},
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 7213.44}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 1273.23}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 5616.01}
+			]
+		},
+		{
+			"name" : "Licenses Permits Inspection Charges",
+			"children" : [
+				{"name" : "Licenses Permits Inspection Charges",		"value" : 2734.0}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 518.0}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 6765.14}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 3330.0}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 3909590.119999997}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 3500.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 5962.53}
+			]
+		},
+		{
+			"name" : "Architectural & Engineering Srvcs",
+			"children" : [
+				{"name" : "Architectural & Engineering Srvcs",		"value" : 14500.0}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 986.5}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 611559.8900000006}
+			]
+		},
+		{
+			"name" : "Insurance And Official Bonds",
+			"children" : [
+				{"name" : "Insurance And Official Bonds",		"value" : 5225.0}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 217815.37}
+			]
+		},
+		{
+			"name" : "Purchase Services-imprest Advances",
+			"children" : [
+				{"name" : "Purchase Services-imprest Advances",		"value" : 327.42}
+			]
+		},
+		{
+			"name" : "Agricultural And Botanical",
+			"children" : [
+				{"name" : "Agricultural And Botanical",		"value" : 72094.77}
+			]
+		},
+		{
+			"name" : "Bakeshop, Dining Room And Kitchen",
+			"children" : [
+				{"name" : "Bakeshop, Dining Room And Kitchen",		"value" : 3091.87}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 685.1199999999999}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 252347.73}
+			]
+		},
+		{
+			"name" : "Chemicals And Gases",
+			"children" : [
+				{"name" : "Chemicals And Gases",		"value" : 311176.50999999983}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 22700.129999999997}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 199052.56999999992}
+			]
+		},
+		{
+			"name" : "General Equipment And Machinery",
+			"children" : [
+				{"name" : "General Equipment And Machinery",		"value" : 142115.22000000003}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 29078.329999999998}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 789.65}
+			]
+		},
+		{
+			"name" : "Fuel -- Heating And Lighting",
+			"children" : [
+				{"name" : "Fuel -- Heating And Lighting",		"value" : 139120.02000000005}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 103296.65000000002}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 27131.04}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 133065.31000000003}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 37147.060000000034}
+			]
+		},
+		{
+			"name" : "Parking Meter And Water Meter",
+			"children" : [
+				{"name" : "Parking Meter And Water Meter",		"value" : 4.5}
+			]
+		},
+		{
+			"name" : "Small Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Small Power Tools And Hand Tools",		"value" : 68949.90999999999}
+			]
+		},
+		{
+			"name" : "Plumbing/air Conditioning/space Htg",
+			"children" : [
+				{"name" : "Plumbing/air Conditioning/space Htg",		"value" : 173270.30999999985}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 17961.72}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 1928.8500000000001}
+			]
+		},
+		{
+			"name" : "Recreational And Educational",
+			"children" : [
+				{"name" : "Recreational And Educational",		"value" : 128594.03000000001}
+			]
+		},
+		{
+			"name" : "Motor Vehicle Parts And Accessories",
+			"children" : [
+				{"name" : "Motor Vehicle Parts And Accessories",		"value" : 12963.800000000001}
+			]
+		},
+		{
+			"name" : "Lubricants",
+			"children" : [
+				{"name" : "Lubricants",		"value" : 198.79}
+			]
+		},
+		{
+			"name" : "Liquid Propane Gas (lpg)",
+			"children" : [
+				{"name" : "Liquid Propane Gas (lpg)",		"value" : 5999.300000000001}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 540.4}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 23796.33}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 2903.0}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 139191.62}
+			]
+		},
+		{
+			"name" : "Contributions-ed & Non-prof Rec Org",
+			"children" : [
+				{"name" : "Contributions-ed & Non-prof Rec Org",		"value" : 2830000.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 35318884.19999995}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Public Property",
+		"children" : [
+		{
+			"name" : "Cleaning And Laundering",
+			"children" : [
+				{"name" : "Cleaning And Laundering",		"value" : 83099.0}
+			]
+		},
+		{
+			"name" : "Janitorial Services",
+			"children" : [
+				{"name" : "Janitorial Services",		"value" : 3713874.8299999996}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 7964.069999999998}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 4845.18}
+			]
+		},
+		{
+			"name" : "Licenses Permits Inspection Charges",
+			"children" : [
+				{"name" : "Licenses Permits Inspection Charges",		"value" : 9878.96}
+			]
+		},
+		{
+			"name" : "Electric Current-structures/streets",
+			"children" : [
+				{"name" : "Electric Current-structures/streets",		"value" : 22182636.23}
+			]
+		},
+		{
+			"name" : "Gas Services",
+			"children" : [
+				{"name" : "Gas Services",		"value" : 6111395.98}
+			]
+		},
+		{
+			"name" : "Steam For Heating",
+			"children" : [
+				{"name" : "Steam For Heating",		"value" : 2481014.939999999}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 81626711.76999992}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 2380.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 2621.8}
+			]
+		},
+		{
+			"name" : "Architectural & Engineering Srvcs",
+			"children" : [
+				{"name" : "Architectural & Engineering Srvcs",		"value" : 21600.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 4495333.82}
+			]
+		},
+		{
+			"name" : "Ground And Building Rental",
+			"children" : [
+				{"name" : "Ground And Building Rental",		"value" : 19201113.76000003}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 43587.309999999976}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 85402.28999999998}
+			]
+		},
+		{
+			"name" : "Chemicals And Gases",
+			"children" : [
+				{"name" : "Chemicals And Gases",		"value" : 17800.960000000003}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 29476.49000000001}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 134635.07}
+			]
+		},
+		{
+			"name" : "General Equipment And Machinery",
+			"children" : [
+				{"name" : "General Equipment And Machinery",		"value" : 25487.820000000003}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 18445.84}
+			]
+		},
+		{
+			"name" : "Fuel -- Heating And Lighting",
+			"children" : [
+				{"name" : "Fuel -- Heating And Lighting",		"value" : 57905.78999999999}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 74883.06}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 353.6}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 51594.25}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 52856.759999999995}
+			]
+		},
+		{
+			"name" : "Small Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Small Power Tools And Hand Tools",		"value" : 23425.320000000003}
+			]
+		},
+		{
+			"name" : "Plumbing/air Conditioning/space Htg",
+			"children" : [
+				{"name" : "Plumbing/air Conditioning/space Htg",		"value" : 206008.67999999996}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 32550.61}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 2001.56}
+			]
+		},
+		{
+			"name" : "#2 Diesel Fuel",
+			"children" : [
+				{"name" : "#2 Diesel Fuel",		"value" : 1369.0099999999998}
+			]
+		},
+		{
+			"name" : "Liquid Propane Gas (lpg)",
+			"children" : [
+				{"name" : "Liquid Propane Gas (lpg)",		"value" : 828.5899999999999}
+			]
+		},
+		{
+			"name" : "Bakeshop, Dining Room And Kitchen",
+			"children" : [
+				{"name" : "Bakeshop, Dining Room And Kitchen",		"value" : 3912.0}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 2465.19}
+			]
+		},
+		{
+			"name" : "Janitorial And Laundry",
+			"children" : [
+				{"name" : "Janitorial And Laundry",		"value" : 829.95}
+			]
+		},
+		{
+			"name" : "Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Power Tools And Hand Tools",		"value" : 3007.0}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 36226.6}
+			]
+		},
+		{
+			"name" : "Payments To Capital Projects Fund",
+			"children" : [
+				{"name" : "Payments To Capital Projects Fund",		"value" : 529000.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 6317562.699999999}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Department Of Human Services",
+		"children" : [
+		{
+			"name" : "Cleaning And Laundering",
+			"children" : [
+				{"name" : "Cleaning And Laundering",		"value" : 300.0}
+			]
+		},
+		{
+			"name" : "Refuse/garbage/silt/sludge Removal",
+			"children" : [
+				{"name" : "Refuse/garbage/silt/sludge Removal",		"value" : 11411.5}
+			]
+		},
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 2285.4}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 280.69}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 127164.51000000001}
+			]
+		},
+		{
+			"name" : "Licenses Permits Inspection Charges",
+			"children" : [
+				{"name" : "Licenses Permits Inspection Charges",		"value" : 170.0}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 61819.84}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 2963.53}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 21687927.789999988}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 703381.75}
+			]
+		},
+		{
+			"name" : "Legal Services",
+			"children" : [
+				{"name" : "Legal Services",		"value" : 572465.9}
+			]
+		},
+		{
+			"name" : "Mental Health & Retardation Service",
+			"children" : [
+				{"name" : "Mental Health & Retardation Service",		"value" : 199768.98}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 4452.4}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 60877.07}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 2090.1800000000003}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 38704.35000000011}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 15462.62}
+			]
+		},
+		{
+			"name" : "Lease Payments-phila Municipal Auth",
+			"children" : [
+				{"name" : "Lease Payments-phila Municipal Auth",		"value" : 4513723.640000001}
+			]
+		},
+		{
+			"name" : "Ground And Building Rental",
+			"children" : [
+				{"name" : "Ground And Building Rental",		"value" : 455981.28}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 64395.15000000005}
+			]
+		},
+		{
+			"name" : "Payments For Care Of Individuals",
+			"children" : [
+				{"name" : "Payments For Care Of Individuals",		"value" : 90776031.85999255}
+			]
+		},
+		{
+			"name" : "Day Care Payments",
+			"children" : [
+				{"name" : "Day Care Payments",		"value" : 59074.840000000004}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 5402.769999999999}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 3261.77}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 13434.85}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 2093.3199999999997}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 30734.27}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 86537.98999999992}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 878.5799999999999}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 6586.08}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 56416.9}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 51944.340000000004}
+			]
+		},
+		{
+			"name" : "Plumbing/air Conditioning/space Htg",
+			"children" : [
+				{"name" : "Plumbing/air Conditioning/space Htg",		"value" : 2019.88}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 17102.5}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 427.0}
+			]
+		},
+		{
+			"name" : "Recreational And Educational",
+			"children" : [
+				{"name" : "Recreational And Educational",		"value" : 349.7}
+			]
+		},
+		{
+			"name" : "Agricultural And Botanical",
+			"children" : [
+				{"name" : "Agricultural And Botanical",		"value" : 393.0}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 14220.67}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 3716.09}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artist",
+			"children" : [
+				{"name" : "Precision, Photographic And Artist",		"value" : 249.18}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 35922.0}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 5031.8}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 3623633.2699999865}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Phila. Prisons",
+		"children" : [
+		{
+			"name" : "Cleaning And Laundering",
+			"children" : [
+				{"name" : "Cleaning And Laundering",		"value" : 370278.48}
+			]
+		},
+		{
+			"name" : "Janitorial Services",
+			"children" : [
+				{"name" : "Janitorial Services",		"value" : 28603.5}
+			]
+		},
+		{
+			"name" : "Refuse/garbage/silt/sludge Removal",
+			"children" : [
+				{"name" : "Refuse/garbage/silt/sludge Removal",		"value" : 4437.450000000001}
+			]
+		},
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 63712.3}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 21889.49000000001}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 83087.41}
+			]
+		},
+		{
+			"name" : "Licenses Permits Inspection Charges",
+			"children" : [
+				{"name" : "Licenses Permits Inspection Charges",		"value" : 11132.0}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 717.17}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 3283.5}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 627.0}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 83420171.86000003}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 7152.95}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 39417.280000000006}
+			]
+		},
+		{
+			"name" : "Architectural & Engineering Srvcs",
+			"children" : [
+				{"name" : "Architectural & Engineering Srvcs",		"value" : 34262.06}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 1225971.5099999974}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 31744.619999999995}
+			]
+		},
+		{
+			"name" : "Witness Expenses",
+			"children" : [
+				{"name" : "Witness Expenses",		"value" : 33.0}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 151553.75999999975}
+			]
+		},
+		{
+			"name" : "Payments For Care Of Individuals",
+			"children" : [
+				{"name" : "Payments For Care Of Individuals",		"value" : 12960137.61}
+			]
+		},
+		{
+			"name" : "Agricultural And Botanical",
+			"children" : [
+				{"name" : "Agricultural And Botanical",		"value" : 10355.39}
+			]
+		},
+		{
+			"name" : "Animal, Livestock And Marine Life",
+			"children" : [
+				{"name" : "Animal, Livestock And Marine Life",		"value" : 852.29}
+			]
+		},
+		{
+			"name" : "Bakeshop, Dining Room And Kitchen",
+			"children" : [
+				{"name" : "Bakeshop, Dining Room And Kitchen",		"value" : 10007.17}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 18741.130000000005}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 135739.79000000007}
+			]
+		},
+		{
+			"name" : "Chemicals And Gases",
+			"children" : [
+				{"name" : "Chemicals And Gases",		"value" : 7313.119999999998}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 1579355.8699999999}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 217106.55999999997}
+			]
+		},
+		{
+			"name" : "General Equipment And Machinery",
+			"children" : [
+				{"name" : "General Equipment And Machinery",		"value" : 34472.89}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 152081.95000000004}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 907.74}
+			]
+		},
+		{
+			"name" : "Fuel -- Heating And Lighting",
+			"children" : [
+				{"name" : "Fuel -- Heating And Lighting",		"value" : 61166.68}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 61506.44999999998}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 62659.34}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 494188.62}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 173390.85999999993}
+			]
+		},
+		{
+			"name" : "Small Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Small Power Tools And Hand Tools",		"value" : 18073.729999999996}
+			]
+		},
+		{
+			"name" : "Plumbing/air Conditioning/space Htg",
+			"children" : [
+				{"name" : "Plumbing/air Conditioning/space Htg",		"value" : 231134.57999999996}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 175406.61}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 215369.03}
+			]
+		},
+		{
+			"name" : "Recreational And Educational",
+			"children" : [
+				{"name" : "Recreational And Educational",		"value" : 453.0}
+			]
+		},
+		{
+			"name" : "Motor Vehicle Parts And Accessories",
+			"children" : [
+				{"name" : "Motor Vehicle Parts And Accessories",		"value" : 3958.04}
+			]
+		},
+		{
+			"name" : "Tobacco Products, Smoking Access",
+			"children" : [
+				{"name" : "Tobacco Products, Smoking Access",		"value" : 316.0}
+			]
+		},
+		{
+			"name" : "Lubricants",
+			"children" : [
+				{"name" : "Lubricants",		"value" : 195.0}
+			]
+		},
+		{
+			"name" : "Liquid Propane Gas (lpg)",
+			"children" : [
+				{"name" : "Liquid Propane Gas (lpg)",		"value" : 756.75}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 1442011.4}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Emergency",
+			"children" : [
+				{"name" : "Fire Fighting And Emergency",		"value" : 10032.0}
+			]
+		},
+		{
+			"name" : "Janitorial And Laundry",
+			"children" : [
+				{"name" : "Janitorial And Laundry",		"value" : 38591.78}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 21274.589999999997}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artist",
+			"children" : [
+				{"name" : "Precision, Photographic And Artist",		"value" : 8511.14}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 199525.16}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 85873.84999999999}
+			]
+		},
+		{
+			"name" : "Prisoner Inmate & Resident Payments",
+			"children" : [
+				{"name" : "Prisoner Inmate & Resident Payments",		"value" : 1238741.6}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 125476049.24000016}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Office Of Supportive Housing",
+		"children" : [
+		{
+			"name" : "Cleaning And Laundering",
+			"children" : [
+				{"name" : "Cleaning And Laundering",		"value" : 49999.25}
+			]
+		},
+		{
+			"name" : "Janitorial Services",
+			"children" : [
+				{"name" : "Janitorial Services",		"value" : 39.9}
+			]
+		},
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 13208.680000000002}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 2316.1399999999994}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 57652.479999999996}
+			]
+		},
+		{
+			"name" : "Licenses Permits Inspection Charges",
+			"children" : [
+				{"name" : "Licenses Permits Inspection Charges",		"value" : 135.5}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 4987.81}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 502.21000000000004}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 14973.930000000002}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 4911681.240000001}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 93452.42}
+			]
+		},
+		{
+			"name" : "Legal Services",
+			"children" : [
+				{"name" : "Legal Services",		"value" : 13332.0}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 800.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 2361.38}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 72093.71000000002}
+			]
+		},
+		{
+			"name" : "Ground And Building Rental",
+			"children" : [
+				{"name" : "Ground And Building Rental",		"value" : 3153835.7099999986}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 25416.859999999997}
+			]
+		},
+		{
+			"name" : "Rental Of Parking Spaces",
+			"children" : [
+				{"name" : "Rental Of Parking Spaces",		"value" : 25.0}
+			]
+		},
+		{
+			"name" : "Payments For Care Of Individuals",
+			"children" : [
+				{"name" : "Payments For Care Of Individuals",		"value" : 23195904.46}
+			]
+		},
+		{
+			"name" : "Purchase Services-imprest Advances",
+			"children" : [
+				{"name" : "Purchase Services-imprest Advances",		"value" : 318.75}
+			]
+		},
+		{
+			"name" : "Materials & Supplies Control",
+			"children" : [
+				{"name" : "Materials & Supplies Control",		"value" : 858.6}
+			]
+		},
+		{
+			"name" : "Agricultural And Botanical",
+			"children" : [
+				{"name" : "Agricultural And Botanical",		"value" : 762.5}
+			]
+		},
+		{
+			"name" : "Bakeshop, Dining Room And Kitchen",
+			"children" : [
+				{"name" : "Bakeshop, Dining Room And Kitchen",		"value" : 35847.06}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 60.0}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 426.35}
+			]
+		},
+		{
+			"name" : "Chemicals And Gases",
+			"children" : [
+				{"name" : "Chemicals And Gases",		"value" : 3109.12}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 25538.219999999998}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 26551.470000000005}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 1344.7600000000002}
+			]
+		},
+		{
+			"name" : "Fuel -- Heating And Lighting",
+			"children" : [
+				{"name" : "Fuel -- Heating And Lighting",		"value" : 64797.590000000004}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 4038.1299999999997}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 4808.159999999999}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 19854.760000000002}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 34595.03000000001}
+			]
+		},
+		{
+			"name" : "Small Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Small Power Tools And Hand Tools",		"value" : 1668.21}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 11360.849999999999}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 3143.0699999999997}
+			]
+		},
+		{
+			"name" : "Recreational And Educational",
+			"children" : [
+				{"name" : "Recreational And Educational",		"value" : 740.5600000000001}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 11658.49}
+			]
+		},
+		{
+			"name" : "General Equipment And Machinery",
+			"children" : [
+				{"name" : "General Equipment And Machinery",		"value" : 351.0}
+			]
+		},
+		{
+			"name" : "Janitorial And Laundry",
+			"children" : [
+				{"name" : "Janitorial And Laundry",		"value" : 493.78}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 781.71}
+			]
+		},
+		{
+			"name" : "Plumbing/air Conditioning/space Htg",
+			"children" : [
+				{"name" : "Plumbing/air Conditioning/space Htg",		"value" : 9168.439999999999}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artist",
+			"children" : [
+				{"name" : "Precision, Photographic And Artist",		"value" : 219.98}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 14671.609999999999}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 72206.92}
+			]
+		},
+		{
+			"name" : "Prisoner Inmate & Resident Payments",
+			"children" : [
+				{"name" : "Prisoner Inmate & Resident Payments",		"value" : 32341.64}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 7063730.980000005}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Fleet Management",
+		"children" : [
+		{
+			"name" : "Cleaning And Laundering",
+			"children" : [
+				{"name" : "Cleaning And Laundering",		"value" : 28268.339999999956}
+			]
+		},
+		{
+			"name" : "Janitorial Services",
+			"children" : [
+				{"name" : "Janitorial Services",		"value" : 243725.22000000006}
+			]
+		},
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 6950.4}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 1645.4699999999996}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 6810.0}
+			]
+		},
+		{
+			"name" : "Licenses Permits Inspection Charges",
+			"children" : [
+				{"name" : "Licenses Permits Inspection Charges",		"value" : 70342.34}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 197681.60000000012}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 150.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 4687.2699999999995}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 4365781.68}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 12325.0}
+			]
+		},
+		{
+			"name" : "Insurance And Official Bonds",
+			"children" : [
+				{"name" : "Insurance And Official Bonds",		"value" : 11776.93}
+			]
+		},
+		{
+			"name" : "Lease Purchase -- Vehicles",
+			"children" : [
+				{"name" : "Lease Purchase -- Vehicles",		"value" : 4324135.2}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 64916.05000000001}
+			]
+		},
+		{
+			"name" : "Rental Of Parking Spaces",
+			"children" : [
+				{"name" : "Rental Of Parking Spaces",		"value" : 467150.0}
+			]
+		},
+		{
+			"name" : "Bakeshop, Dining Room And Kitchen",
+			"children" : [
+				{"name" : "Bakeshop, Dining Room And Kitchen",		"value" : 603.09}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 49402.130000000005}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 107569.86000000002}
+			]
+		},
+		{
+			"name" : "Chemicals And Gases",
+			"children" : [
+				{"name" : "Chemicals And Gases",		"value" : 148224.71}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 123700.82000000004}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 6739.64}
+			]
+		},
+		{
+			"name" : "General Equipment And Machinery",
+			"children" : [
+				{"name" : "General Equipment And Machinery",		"value" : 89712.25}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 16693.53}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 1184.0}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 35749.53999999999}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 7603.0}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 60147.92999999999}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 26810.489999999994}
+			]
+		},
+		{
+			"name" : "Small Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Small Power Tools And Hand Tools",		"value" : 74405.77}
+			]
+		},
+		{
+			"name" : "Plumbing/air Conditioning/space Htg",
+			"children" : [
+				{"name" : "Plumbing/air Conditioning/space Htg",		"value" : 3800.9}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 10650.5}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 7041.5}
+			]
+		},
+		{
+			"name" : "Motor Vehicle Parts And Accessories",
+			"children" : [
+				{"name" : "Motor Vehicle Parts And Accessories",		"value" : 9752872.000000088}
+			]
+		},
+		{
+			"name" : "Lubricants",
+			"children" : [
+				{"name" : "Lubricants",		"value" : 569236.9300000002}
+			]
+		},
+		{
+			"name" : "#2 Diesel Fuel",
+			"children" : [
+				{"name" : "#2 Diesel Fuel",		"value" : 7363301.330000008}
+			]
+		},
+		{
+			"name" : "Bio-fuels",
+			"children" : [
+				{"name" : "Bio-fuels",		"value" : 245230.43}
+			]
+		},
+		{
+			"name" : "Gasoline",
+			"children" : [
+				{"name" : "Gasoline",		"value" : 11723303.310000008}
+			]
+		},
+		{
+			"name" : "Janitorial And Laundry",
+			"children" : [
+				{"name" : "Janitorial And Laundry",		"value" : 255.68}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 5531.75}
+			]
+		},
+		{
+			"name" : "Vehicles -- Motor And Motorless",
+			"children" : [
+				{"name" : "Vehicles -- Motor And Motorless",		"value" : 3624190.6000000015}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 6806.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 15072238.74}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Free Library",
+		"children" : [
+		{
+			"name" : "Cleaning And Laundering",
+			"children" : [
+				{"name" : "Cleaning And Laundering",		"value" : 12470.0}
+			]
+		},
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 637867.2600000004}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 20792.07999999999}
+			]
+		},
+		{
+			"name" : "Licenses Permits Inspection Charges",
+			"children" : [
+				{"name" : "Licenses Permits Inspection Charges",		"value" : 62.0}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 83519.68}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 11263.049999999997}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 435524.83}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 23085.5}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 5453.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 531894.77}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 295131.36}
+			]
+		},
+		{
+			"name" : "Rent/lease-purchase Computer Equip",
+			"children" : [
+				{"name" : "Rent/lease-purchase Computer Equip",		"value" : 310574.43000000005}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 62408.91000000009}
+			]
+		},
+		{
+			"name" : "Agricultural And Botanical",
+			"children" : [
+				{"name" : "Agricultural And Botanical",		"value" : 536.27}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 1500.0}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 2127.79}
+			]
+		},
+		{
+			"name" : "Library Materials",
+			"children" : [
+				{"name" : "Library Materials",		"value" : 1582333.3899999964}
+			]
+		},
+		{
+			"name" : "Chemicals And Gases",
+			"children" : [
+				{"name" : "Chemicals And Gases",		"value" : 14.33}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 7957.180000000002}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 9508.659999999998}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 931.3199999999999}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 7976.49}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 921.3599999999999}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 48971.13}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 97608.01000000002}
+			]
+		},
+		{
+			"name" : "Small Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Small Power Tools And Hand Tools",		"value" : 715.0}
+			]
+		},
+		{
+			"name" : "Plumbing/air Conditioning/space Htg",
+			"children" : [
+				{"name" : "Plumbing/air Conditioning/space Htg",		"value" : 1323.6200000000001}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 13313.41}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 42480.24000000001}
+			]
+		},
+		{
+			"name" : "Recreational And Educational",
+			"children" : [
+				{"name" : "Recreational And Educational",		"value" : 69.39}
+			]
+		},
+		{
+			"name" : "Gasoline",
+			"children" : [
+				{"name" : "Gasoline",		"value" : 330.0}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 139.98}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 2215.7}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 24303.199999999997}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 12311.88}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 28503195.150000043}
+			]
+		}
+
+	]
+	},
+	{	"name" : "City Sheriff's Department",
+		"children" : [
+		{
+			"name" : "Cleaning And Laundering",
+			"children" : [
+				{"name" : "Cleaning And Laundering",		"value" : 63700.0}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 184346.4599999992}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 6930.0}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 189419.25}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 2414.2}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 10890.39}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 116734.15}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 11227.1}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 125608.0}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 17173.67}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 684.36}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 4807.6}
+			]
+		},
+		{
+			"name" : "Gasoline",
+			"children" : [
+				{"name" : "Gasoline",		"value" : 29006.920000000002}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 3872.0}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 4128.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 15444191.120000007}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Fire",
+		"children" : [
+		{
+			"name" : "Janitorial Services",
+			"children" : [
+				{"name" : "Janitorial Services",		"value" : 2375.0}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 211.13}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 35086.840000000004}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 21875.0}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 4892531.63}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 1211.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 197350.11999999994}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 708658.9199999999}
+			]
+		},
+		{
+			"name" : "Clean & Seal Vacant Bldgs/lots",
+			"children" : [
+				{"name" : "Clean & Seal Vacant Bldgs/lots",		"value" : 1237.0}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 15027.299999999987}
+			]
+		},
+		{
+			"name" : "Purchase Services-imprest Advances",
+			"children" : [
+				{"name" : "Purchase Services-imprest Advances",		"value" : 4043.3799999999997}
+			]
+		},
+		{
+			"name" : "Agricultural And Botanical",
+			"children" : [
+				{"name" : "Agricultural And Botanical",		"value" : 2429.0}
+			]
+		},
+		{
+			"name" : "Bakeshop, Dining Room And Kitchen",
+			"children" : [
+				{"name" : "Bakeshop, Dining Room And Kitchen",		"value" : 187.84}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 26564.980000000014}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 8677.960000000001}
+			]
+		},
+		{
+			"name" : "Chemicals And Gases",
+			"children" : [
+				{"name" : "Chemicals And Gases",		"value" : 184672.80999999674}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 3980962.9699999993}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 60494.36}
+			]
+		},
+		{
+			"name" : "General Equipment And Machinery",
+			"children" : [
+				{"name" : "General Equipment And Machinery",		"value" : 1943.1399999999999}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 471750.36}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 3331.5099999999984}
+			]
+		},
+		{
+			"name" : "Fuel -- Heating And Lighting",
+			"children" : [
+				{"name" : "Fuel -- Heating And Lighting",		"value" : 67756.70000000001}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 20697.329999999998}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 1420685.4899999986}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 151365.05}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 138837.7400000001}
+			]
+		},
+		{
+			"name" : "Small Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Small Power Tools And Hand Tools",		"value" : 20431.440000000002}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 110390.6}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 54958.07000000001}
+			]
+		},
+		{
+			"name" : "#2 Diesel Fuel",
+			"children" : [
+				{"name" : "#2 Diesel Fuel",		"value" : 397.5}
+			]
+		},
+		{
+			"name" : "Compressed Natural Gas (cng)",
+			"children" : [
+				{"name" : "Compressed Natural Gas (cng)",		"value" : 56.0}
+			]
+		},
+		{
+			"name" : "Liquid Propane Gas (lpg)",
+			"children" : [
+				{"name" : "Liquid Propane Gas (lpg)",		"value" : 289.56}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Emergency",
+			"children" : [
+				{"name" : "Fire Fighting And Emergency",		"value" : 197468.09999999998}
+			]
+		},
+		{
+			"name" : "Janitorial And Laundry",
+			"children" : [
+				{"name" : "Janitorial And Laundry",		"value" : 4650.0}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 14160.33}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artist",
+			"children" : [
+				{"name" : "Precision, Photographic And Artist",		"value" : 28236.87}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 3181.69}
+			]
+		},
+		{
+			"name" : "Vehicles -- Motor And Motorless",
+			"children" : [
+				{"name" : "Vehicles -- Motor And Motorless",		"value" : 1418.4}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 362744.75999999995}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 181717132.43000156}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Department Of Licenses & Inspections",
+		"children" : [
+		{
+			"name" : "Janitorial Services",
+			"children" : [
+				{"name" : "Janitorial Services",		"value" : 21776.91}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 6.3}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 140661.7800000001}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 190.0}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 1431.72}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 495772.38999999996}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 60.7}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 4091.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 371900.13000000006}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 75.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 230974.81999999878}
+			]
+		},
+		{
+			"name" : "Demolition Of Buildings",
+			"children" : [
+				{"name" : "Demolition Of Buildings",		"value" : 3908224.34}
+			]
+		},
+		{
+			"name" : "Abatement Of Other Nuisances",
+			"children" : [
+				{"name" : "Abatement Of Other Nuisances",		"value" : 28060.700000000004}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 9277.77}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 2736.0}
+			]
+		},
+		{
+			"name" : "Rental Of Parking Spaces",
+			"children" : [
+				{"name" : "Rental Of Parking Spaces",		"value" : 27087.0}
+			]
+		},
+		{
+			"name" : "Purchase Services-imprest Advances",
+			"children" : [
+				{"name" : "Purchase Services-imprest Advances",		"value" : 438.4700000000001}
+			]
+		},
+		{
+			"name" : "Materials & Supplies Control",
+			"children" : [
+				{"name" : "Materials & Supplies Control",		"value" : 314.09}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 8325.97}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 50582.0}
+			]
+		},
+		{
+			"name" : "Chemicals And Gases",
+			"children" : [
+				{"name" : "Chemicals And Gases",		"value" : 666.24}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 51514.859999999986}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 641.21}
+			]
+		},
+		{
+			"name" : "General Equipment And Machinery",
+			"children" : [
+				{"name" : "General Equipment And Machinery",		"value" : 2536.5}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 1913.82}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 3033.4900000000002}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 1366.9}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 26482.440000000002}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 80293.47000000006}
+			]
+		},
+		{
+			"name" : "Small Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Small Power Tools And Hand Tools",		"value" : 3133.2400000000002}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 25471.739999999998}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 11237.179999999998}
+			]
+		},
+		{
+			"name" : "Recreational And Educational",
+			"children" : [
+				{"name" : "Recreational And Educational",		"value" : 509.8}
+			]
+		},
+		{
+			"name" : "Motor Vehicle Parts And Accessories",
+			"children" : [
+				{"name" : "Motor Vehicle Parts And Accessories",		"value" : 861.82}
+			]
+		},
+		{
+			"name" : "Other Materials And Supplies (noc)",
+			"children" : [
+				{"name" : "Other Materials And Supplies (noc)",		"value" : 576.03}
+			]
+		},
+		{
+			"name" : "Agricultural And Botanical",
+			"children" : [
+				{"name" : "Agricultural And Botanical",		"value" : 1556.0}
+			]
+		},
+		{
+			"name" : "Bakeshop, Dining Room And Kitchen",
+			"children" : [
+				{"name" : "Bakeshop, Dining Room And Kitchen",		"value" : 79.0}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 798.98}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 11806.0}
+			]
+		},
+		{
+			"name" : "Plumbing/air Conditioning/space Htg",
+			"children" : [
+				{"name" : "Plumbing/air Conditioning/space Htg",		"value" : 1275.3}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artist",
+			"children" : [
+				{"name" : "Precision, Photographic And Artist",		"value" : 4761.95}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 496.0}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 68279.82}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 14981291.980000013}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Department Of Records",
+		"children" : [
+		{
+			"name" : "Janitorial Services",
+			"children" : [
+				{"name" : "Janitorial Services",		"value" : 711.2}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 1602.5700000000006}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 810.0500000000001}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 10255.86}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 30.0}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 675429.7799999998}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 100131.5}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 3840.99}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 9890.33}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 318875.6800000001}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 8368.88}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 2963.11}
+			]
+		},
+		{
+			"name" : "Purchase Services-imprest Advances",
+			"children" : [
+				{"name" : "Purchase Services-imprest Advances",		"value" : 140.0}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 2284.19}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 28.64}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 832.3200000000002}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 69376.22999999997}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 24695.98}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 7662.809999999999}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 3765.0}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 21516.51}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artist",
+			"children" : [
+				{"name" : "Precision, Photographic And Artist",		"value" : 20.36}
+			]
+		},
+		{
+			"name" : "Printing And Binding",
+			"children" : [
+				{"name" : "Printing And Binding",		"value" : 69800.0}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 1626.26}
+			]
+		},
+		{
+			"name" : "Contributions Control",
+			"children" : [
+				{"name" : "Contributions Control",		"value" : 657.2800000000001}
+			]
+		},
+		{
+			"name" : "Meritorious Awards",
+			"children" : [
+				{"name" : "Meritorious Awards",		"value" : 600.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 2817423.2800000003}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Commission On Human Relations",
+		"children" : [
+		{
+			"name" : "Janitorial Services",
+			"children" : [
+				{"name" : "Janitorial Services",		"value" : 1100.0}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 0.5}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 3757.98}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 455.39}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 3416.83}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 1864.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 7093.0}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 9193.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 2352.24}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 478.0}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 93.89}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 7305.590000000002}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 551.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 1840617.96}
+			]
+		}
+
+	]
+	},
+	{	"name" : "City Commissioners",
+		"children" : [
+		{
+			"name" : "Janitorial Services",
+			"children" : [
+				{"name" : "Janitorial Services",		"value" : 11718.64}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 407645.39}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 341413.06}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 13198.18}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 1820986.6600000001}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 527.1}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 3493.0}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 12573.900000000001}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 189366.23000000027}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 100000.0}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 177840.86}
+			]
+		},
+		{
+			"name" : "Other Expenses (not Othrwse Clssfd)",
+			"children" : [
+				{"name" : "Other Expenses (not Othrwse Clssfd)",		"value" : 175.0}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 2497.0}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 450.0}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 141872.47999999998}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 6420.59}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 3968.2000000000003}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 77684.48000000003}
+			]
+		},
+		{
+			"name" : "Small Power Tools And Hand Tools",
+			"children" : [
+				{"name" : "Small Power Tools And Hand Tools",		"value" : 2387.5}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 15782.86}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 304957.62}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 915.0}
+			]
+		},
+		{
+			"name" : "Plumbing/air Conditioning/space Htg",
+			"children" : [
+				{"name" : "Plumbing/air Conditioning/space Htg",		"value" : 6355.8}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artist",
+			"children" : [
+				{"name" : "Precision, Photographic And Artist",		"value" : 742.52}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 1124.0}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 5051.92}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 5319677.970000001}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Office Of Property Assessments",
+		"children" : [
+		{
+			"name" : "Refuse/garbage/silt/sludge Removal",
+			"children" : [
+				{"name" : "Refuse/garbage/silt/sludge Removal",		"value" : 2536.2}
+			]
+		},
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 1.6}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 183209.15999999997}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 3451.54}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 74930.43999999999}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 237692.1}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 59391.75}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 13632.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 9900.0}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 3567.5}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 15892.53}
+			]
+		},
+		{
+			"name" : "Ground And Building Rental",
+			"children" : [
+				{"name" : "Ground And Building Rental",		"value" : 2500.0}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 8675.139999999998}
+			]
+		},
+		{
+			"name" : "Other Expenses (not Othrwse Clssfd)",
+			"children" : [
+				{"name" : "Other Expenses (not Othrwse Clssfd)",		"value" : 107.75}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 23625.47}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 614.51}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 31130.82}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 11370.61}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 6570.12}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 16628.0}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artist",
+			"children" : [
+				{"name" : "Precision, Photographic And Artist",		"value" : 2519.1}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 190702.16}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 7031293.390000001}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Mdo-office Of Technology",
+		"children" : [
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 17895304.480000034}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 2306.3499999999995}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 4675.78}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 1362825.8299999996}
+			]
+		},
+		{
+			"name" : "Electric Current-structures/streets",
+			"children" : [
+				{"name" : "Electric Current-structures/streets",		"value" : 189259.49000000005}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 151.82999999999998}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 12282.99}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 7928008.820000011}
+			]
+		},
+		{
+			"name" : "Accounting And Auditing Services",
+			"children" : [
+				{"name" : "Accounting And Auditing Services",		"value" : 5000.0}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 26453.67}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 57070.44}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 1284876.2100000007}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 3558058.2599999974}
+			]
+		},
+		{
+			"name" : "Rent/lease-purchase Computer Equip",
+			"children" : [
+				{"name" : "Rent/lease-purchase Computer Equip",		"value" : 9232028.250000004}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 62324.62}
+			]
+		},
+		{
+			"name" : "Rental Of Parking Spaces",
+			"children" : [
+				{"name" : "Rental Of Parking Spaces",		"value" : 35.0}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 2230.49}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 253.68}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 514927.10000000003}
+			]
+		},
+		{
+			"name" : "General Equipment And Machinery",
+			"children" : [
+				{"name" : "General Equipment And Machinery",		"value" : 212.06}
+			]
+		},
+		{
+			"name" : "General Hardware And Minor Tools",
+			"children" : [
+				{"name" : "General Hardware And Minor Tools",		"value" : 12967.920000000002}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 72.84}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 54184.53999999999}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 25273.23}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 551.0}
+			]
+		},
+		{
+			"name" : "Recreational And Educational",
+			"children" : [
+				{"name" : "Recreational And Educational",		"value" : 229.0}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 619050.2999999999}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Emergency",
+			"children" : [
+				{"name" : "Fire Fighting And Emergency",		"value" : 1565.54}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 9078.29}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artist",
+			"children" : [
+				{"name" : "Precision, Photographic And Artist",		"value" : 2966.0}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 2331253.15}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 30256.96}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 18437526.480000004}
+			]
+		}
+
+	]
+	},
+	{	"name" : "City Treasurer",
+		"children" : [
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 26.91}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 735.38}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 1089.88}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 15088.25}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 76072.25}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 600.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 120.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 1908.0}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 21.14}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 3931.5699999999997}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 1188.0}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 209.0}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 474.95}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 714.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 811276.4199999999}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Airport / Commerce",
+		"children" : [
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 179.97}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 107.61}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 1461.94}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 51.400000000000006}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 1644600.3399999999}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 250.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 685.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 1380.0}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 15015283.230000008}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 1483.2200000000005}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 50.4}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 112.68}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 4578.43}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 5827.39}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 993.19}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 1398972.18}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Law",
+		"children" : [
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 1.0}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 1834.43}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 21506.88}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 419.02}
+			]
+		},
+		{
+			"name" : "Overtime Meals",
+			"children" : [
+				{"name" : "Overtime Meals",		"value" : 922.25}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 7675.5}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 1806975.7400000053}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 49717.829999999994}
+			]
+		},
+		{
+			"name" : "Legal Services",
+			"children" : [
+				{"name" : "Legal Services",		"value" : 1720288.1799999997}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 70226.95}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 39048.25}
+			]
+		},
+		{
+			"name" : "Architectural & Engineering Srvcs",
+			"children" : [
+				{"name" : "Architectural & Engineering Srvcs",		"value" : 313587.41000000003}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 431983.74000000005}
+			]
+		},
+		{
+			"name" : "Arbitration Fees",
+			"children" : [
+				{"name" : "Arbitration Fees",		"value" : 261217.89}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 13016.38}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 692.47}
+			]
+		},
+		{
+			"name" : "Witness Fees",
+			"children" : [
+				{"name" : "Witness Fees",		"value" : 7665.07}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 50506.56}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 152212.28999999998}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 587.16}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 238.49}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 49581.31000000001}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 21450.0}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 20886.069999999996}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 185.27}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 270.5}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 751.44}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 8508622.689999994}
+			]
+		}
+
+	]
+	},
+	{	"name" : "City Controller",
+		"children" : [
+		{
+			"name" : "Telephone",
+			"children" : [
+				{"name" : "Telephone",		"value" : 722.24}
+			]
+		},
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 275.59000000000003}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 2014.3000000000002}
+			]
+		},
+		{
+			"name" : "Licenses Permits Inspection Charges",
+			"children" : [
+				{"name" : "Licenses Permits Inspection Charges",		"value" : 229.5}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 882.3100000000001}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 151178.75000000003}
+			]
+		},
+		{
+			"name" : "Accounting And Auditing Services",
+			"children" : [
+				{"name" : "Accounting And Auditing Services",		"value" : 541067.32}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 7130.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 45517.43}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 2101.3}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 17900.03}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 6847220.049999998}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Mayor's Office",
+		"children" : [
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 877.4300000000002}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 56676.92999999999}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 2085.2000000000007}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 430081.1799999999}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 46214.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 3900.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 16885.47}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 2887.0}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 585.96}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 8930.879999999997}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 350.55}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 84.99}
+			]
+		},
+		{
+			"name" : "Other Materials And Supplies (noc)",
+			"children" : [
+				{"name" : "Other Materials And Supplies (noc)",		"value" : 223.0}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 129.99}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 692.0}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 457.42}
+			]
+		},
+		{
+			"name" : "Meritorious Awards",
+			"children" : [
+				{"name" : "Meritorious Awards",		"value" : 183000.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 2964008.02}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Revenue",
+		"children" : [
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 2304931.389999999}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 14526.150000000001}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 387.0}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 1156862.37}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 25915.0}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 14691.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 6607.0}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 4502.550000000001}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 283217.0200000002}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 821.12}
+			]
+		},
+		{
+			"name" : "Ground And Building Rental",
+			"children" : [
+				{"name" : "Ground And Building Rental",		"value" : 1900.0}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 8756.080000000002}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 14726.979999999998}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 274.06}
+			]
+		},
+		{
+			"name" : "Electrical And Communication",
+			"children" : [
+				{"name" : "Electrical And Communication",		"value" : 1142.79}
+			]
+		},
+		{
+			"name" : "Fire Fighting And Safety",
+			"children" : [
+				{"name" : "Fire Fighting And Safety",		"value" : 220.52}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 67.5}
+			]
+		},
+		{
+			"name" : "Janitorial, Laundry And Household",
+			"children" : [
+				{"name" : "Janitorial, Laundry And Household",		"value" : 685.8499999999999}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 164655.5800000002}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 16167.2}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 232357.43999999997}
+			]
+		},
+		{
+			"name" : "Electrical Lighting Communication",
+			"children" : [
+				{"name" : "Electrical Lighting Communication",		"value" : 2273.73}
+			]
+		},
+		{
+			"name" : "Janitorial And Laundry",
+			"children" : [
+				{"name" : "Janitorial And Laundry",		"value" : 87.11}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 34362.3}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 42019.0}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 3016.08}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 13441001.86}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Procurement",
+		"children" : [
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 2474.26}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 24.83}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 2870480.8600000003}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 1037.5}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 1375.5}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 150.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 17463.460000000003}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 800.66}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 6881.94}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 169.12}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 13147.13}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 4791.02}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 60.5}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 12.0}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 235.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 2186310.3699999996}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Board Of Ethics",
+		"children" : [
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 2889.31}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 1390.81}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 1223.75}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 445.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 3134.0}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 2079.55}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 45.69}
+			]
+		},
+		{
+			"name" : "Maint/support-computr Hardware/soft",
+			"children" : [
+				{"name" : "Maint/support-computr Hardware/soft",		"value" : 1325.53}
+			]
+		},
+		{
+			"name" : "Other Expenses (not Othrwse Clssfd)",
+			"children" : [
+				{"name" : "Other Expenses (not Othrwse Clssfd)",		"value" : 422.65000000000003}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 1359.4}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 874.6200000000001}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 681105.61}
+			]
+		}
+
+	]
+	},
+	{	"name" : "The Youth Commission",
+		"children" : [
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 15.06}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 50.8}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 1000.0}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 5288.5}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 30.2}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 5383.2}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 113.37}
+			]
+		},
+		{
+			"name" : "Food",
+			"children" : [
+				{"name" : "Food",		"value" : 28.56}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 1449.83}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 940.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 23513.93}
+			]
+		}
+
+	]
+	},
+	{	"name" : "City Planning Commission",
+		"children" : [
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 357.44999999999993}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 9423.520000000002}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 1295.94}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 12332.28}
+			]
+		},
+		{
+			"name" : "Accounting And Auditing Services",
+			"children" : [
+				{"name" : "Accounting And Auditing Services",		"value" : 6000.0}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 1495.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 8678.8}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 711.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 3105.72}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 30938.929999999993}
+			]
+		},
+		{
+			"name" : "Bakeshop, Dining Room And Kitchen",
+			"children" : [
+				{"name" : "Bakeshop, Dining Room And Kitchen",		"value" : 46.55}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 1234.9300000000003}
+			]
+		},
+		{
+			"name" : "Building And Construction",
+			"children" : [
+				{"name" : "Building And Construction",		"value" : 86.04}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 11170.59}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 19409.440000000002}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 853.0}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 649.98}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artist",
+			"children" : [
+				{"name" : "Precision, Photographic And Artist",		"value" : 239.09}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 169.95}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 2279374.4599999995}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Personnel",
+		"children" : [
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 16846.170000000002}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 155196.59000000003}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 17444.530000000006}
+			]
+		},
+		{
+			"name" : "Advertising/promotional Activities",
+			"children" : [
+				{"name" : "Advertising/promotional Activities",		"value" : 10798.6}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 416545.52999999997}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 21936.0}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 9492.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 545.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 12270.389999999994}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 39307.659999999974}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 7625.92}
+			]
+		},
+		{
+			"name" : "Dry Goods/notions/wearing Apparel",
+			"children" : [
+				{"name" : "Dry Goods/notions/wearing Apparel",		"value" : 550.0}
+			]
+		},
+		{
+			"name" : "Hospital And Laboratory",
+			"children" : [
+				{"name" : "Hospital And Laboratory",		"value" : 8249.08}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 16352.850000000002}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 3900.14}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 2082.2}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 4283971.450000003}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Arts & Culture Office",
+		"children" : [
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 162.15}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 390800.0}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 250.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 198.0}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 1220.94}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 1886.06}
+			]
+		},
+		{
+			"name" : "Contributions-ed & Non-prof Rec Org",
+			"children" : [
+				{"name" : "Contributions-ed & Non-prof Rec Org",		"value" : 230688.0}
+			]
+		},
+		{
+			"name" : "Contributions-gov & Non-prof Not Ed",
+			"children" : [
+				{"name" : "Contributions-gov & Non-prof Not Ed",		"value" : 1840000.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 205603.65}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Register Of Wills",
+		"children" : [
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 22446.57}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 1316.0}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 1606.64}
+			]
+		},
+		{
+			"name" : "Information Technology-prof Service",
+			"children" : [
+				{"name" : "Information Technology-prof Service",		"value" : 11414.410000000002}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 691.5}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 338.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 15285.229999999998}
+			]
+		},
+		{
+			"name" : "Insurance And Official Bonds",
+			"children" : [
+				{"name" : "Insurance And Official Bonds",		"value" : 689.0}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 628.1600000000001}
+			]
+		},
+		{
+			"name" : "Other Expenses (not Othrwse Clssfd)",
+			"children" : [
+				{"name" : "Other Expenses (not Othrwse Clssfd)",		"value" : 133.0}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 13039.769999999999}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 5265.76}
+			]
+		},
+		{
+			"name" : "Other Materials And Supplies (noc)",
+			"children" : [
+				{"name" : "Other Materials And Supplies (noc)",		"value" : 622.56}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 3529.0}
+			]
+		},
+		{
+			"name" : "Printing And Binding",
+			"children" : [
+				{"name" : "Printing And Binding",		"value" : 23.0}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 9862.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 3340492.63}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Common Pleas Court",
+		"children" : [
+		{
+			"name" : "Postage",
+			"children" : [
+				{"name" : "Postage",		"value" : 3181.4700000000003}
+			]
+		},
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 1639.0}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 1100.28}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 947343.1400000001}
+			]
+		},
+		{
+			"name" : "Legal Services",
+			"children" : [
+				{"name" : "Legal Services",		"value" : 8678026.450000003}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 185.0}
+			]
+		},
+		{
+			"name" : "Arbitration Fees",
+			"children" : [
+				{"name" : "Arbitration Fees",		"value" : 1128475.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 11737.729999999998}
+			]
+		},
+		{
+			"name" : "Juror Fees",
+			"children" : [
+				{"name" : "Juror Fees",		"value" : 1463581.0}
+			]
+		},
+		{
+			"name" : "Other Expenses (not Othrwse Clssfd)",
+			"children" : [
+				{"name" : "Other Expenses (not Othrwse Clssfd)",		"value" : 15633270.230000002}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 1360.0}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 2278.0}
+			]
+		},
+		{
+			"name" : "Other Materials And Supplies (noc)",
+			"children" : [
+				{"name" : "Other Materials And Supplies (noc)",		"value" : 2026452.66}
+			]
+		},
+		{
+			"name" : "Other Equipment (noc)",
+			"children" : [
+				{"name" : "Other Equipment (noc)",		"value" : 808842.9699999999}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 90842663.53000012}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Labor Relations",
+		"children" : [
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 340.33}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 345.5}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 5432.0}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 1797.8799999999999}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 55.5}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 526947.98}
+			]
+		}
+
+	]
+	},
+	{	"name" : "City Representative",
+		"children" : [
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 312.5}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 518000.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 480.0}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 6114.67}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 10485.880000000001}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 1005.76}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 2685.41}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 2856.08}
+			]
+		},
+		{
+			"name" : "Other Materials And Supplies (noc)",
+			"children" : [
+				{"name" : "Other Materials And Supplies (noc)",		"value" : 12967.090000000006}
+			]
+		},
+		{
+			"name" : "Furniture And Furnishings",
+			"children" : [
+				{"name" : "Furniture And Furnishings",		"value" : 4390.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 337864.82}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Mayor-office Of The Inspector General",
+		"children" : [
+		{
+			"name" : "Transportation",
+			"children" : [
+				{"name" : "Transportation",		"value" : 5435.909999999999}
+			]
+		},
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 209.91}
+			]
+		},
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 722.7800000000001}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 83384.9}
+			]
+		},
+		{
+			"name" : "Legal Services",
+			"children" : [
+				{"name" : "Legal Services",		"value" : 281.12999999999994}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 1550.0}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 9036.0}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 788.67}
+			]
+		},
+		{
+			"name" : "Other Expenses (not Othrwse Clssfd)",
+			"children" : [
+				{"name" : "Other Expenses (not Othrwse Clssfd)",		"value" : 486.72}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 11548.259999999998}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 310.35}
+			]
+		},
+		{
+			"name" : "Office Equipment",
+			"children" : [
+				{"name" : "Office Equipment",		"value" : 2095.96}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 1160137.88}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Board Of Revision Of Taxes",
+		"children" : [
+		{
+			"name" : "Commercial Off-shelf Comp Software",
+			"children" : [
+				{"name" : "Commercial Off-shelf Comp Software",		"value" : 1676.25}
+			]
+		},
+		{
+			"name" : "Seminar And Training Sessions",
+			"children" : [
+				{"name" : "Seminar And Training Sessions",		"value" : 330.0}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 8465.6}
+			]
+		},
+		{
+			"name" : "Repair And Maintenance Charges",
+			"children" : [
+				{"name" : "Repair And Maintenance Charges",		"value" : 2450.25}
+			]
+		},
+		{
+			"name" : "Rental Of Parking Spaces",
+			"children" : [
+				{"name" : "Rental Of Parking Spaces",		"value" : 5040.0}
+			]
+		},
+		{
+			"name" : "Books And Other Publications",
+			"children" : [
+				{"name" : "Books And Other Publications",		"value" : 567.8199999999999}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 1312.0}
+			]
+		},
+		{
+			"name" : "Precision, Photographic And Artists",
+			"children" : [
+				{"name" : "Precision, Photographic And Artists",		"value" : 830.98}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 661.0}
+			]
+		},
+		{
+			"name" : "Computer Equipment & Peripherals",
+			"children" : [
+				{"name" : "Computer Equipment & Peripherals",		"value" : 4140.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 474228.4800000001}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Zoning Code Commission",
+		"children" : [
+		{
+			"name" : "Meals-non-travel & Officl Entertain",
+			"children" : [
+				{"name" : "Meals-non-travel & Officl Entertain",		"value" : 83.7}
+			]
+		},
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 118672.02}
+			]
+		},
+		{
+			"name" : "Bakeshop, Dining Room And Kitchen",
+			"children" : [
+				{"name" : "Bakeshop, Dining Room And Kitchen",		"value" : 145.0}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 1290.8200000000002}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 59195.44}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Office Of Housing",
+		"children" : [
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 2298168.97}
+			]
+		},
+		{
+			"name" : "Demolition Of Buildings",
+			"children" : [
+				{"name" : "Demolition Of Buildings",		"value" : 282484.0}
+			]
+		},
+		{
+			"name" : "Payments To Grants Revenue Fund",
+			"children" : [
+				{"name" : "Payments To Grants Revenue Fund",		"value" : 154044.31}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Office Of Behavioral Health",
+		"children" : [
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 619976.0}
+			]
+		},
+		{
+			"name" : "Mental Health & Retardation Service",
+			"children" : [
+				{"name" : "Mental Health & Retardation Service",		"value" : 13049720.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 1464697.9900000002}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Fairmount Park Commission",
+		"children" : [
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 65311.5}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 2311.3199999999997}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Sinking Fund Commission",
+		"children" : [
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 4500.0}
+			]
+		},
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 1554.0}
+			]
+		},
+		{
+			"name" : "Lease Payments-phila Municipal Auth",
+			"children" : [
+				{"name" : "Lease Payments-phila Municipal Auth",		"value" : 28835456.64}
+			]
+		},
+		{
+			"name" : "Rents",
+			"children" : [
+				{"name" : "Rents",		"value" : 66295508.47}
+			]
+		},
+		{
+			"name" : "Interest On City Debt -- Long-term",
+			"children" : [
+				{"name" : "Interest On City Debt -- Long-term",		"value" : 65897662.779999994}
+			]
+		},
+		{
+			"name" : "Principal Payments On City Debt-l/t",
+			"children" : [
+				{"name" : "Principal Payments On City Debt-l/t",		"value" : 40745000.0}
+			]
+		},
+		{
+			"name" : "Interest On City Debt - Short-term",
+			"children" : [
+				{"name" : "Interest On City Debt - Short-term",		"value" : 1937978.14}
+			]
+		},
+		{
+			"name" : "Sinking Fund Reserve Payment",
+			"children" : [
+				{"name" : "Sinking Fund Reserve Payment",		"value" : 1166204.22}
+			]
+		},
+		{
+			"name" : "Commitment Fee Expense",
+			"children" : [
+				{"name" : "Commitment Fee Expense",		"value" : 1587131.2599999995}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Mayor's Office Of Transportation",
+		"children" : [
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 30451.0}
+			]
+		},
+		{
+			"name" : "Dues",
+			"children" : [
+				{"name" : "Dues",		"value" : 150.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 809992.4}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Mayors Office-mural Arts Program",
+		"children" : [
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 426500.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 437931.4}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Civil Service Commission",
+		"children" : [
+		{
+			"name" : "Professional Consult/spec Services",
+			"children" : [
+				{"name" : "Professional Consult/spec Services",		"value" : 29500.000000000007}
+			]
+		},
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 151.57}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 142824.0}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Board Of Licenses & Inspections",
+		"children" : [
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 7281.75}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 123176.94999999998}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Zoning Board",
+		"children" : [
+		{
+			"name" : "Court Reporters",
+			"children" : [
+				{"name" : "Court Reporters",		"value" : 33191.4}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 341419.9600000001}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Historical Commission",
+		"children" : [
+		{
+			"name" : "Office Materials And Supplies",
+			"children" : [
+				{"name" : "Office Materials And Supplies",		"value" : 625.2}
+			]
+		},
+		{
+			"name" : "Printing",
+			"children" : [
+				{"name" : "Printing",		"value" : 42.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 361422.91}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Atwater Kent Museum",
+		"children" : [
+		{
+			"name" : "Contributions-gov & Non-prof Not Ed",
+			"children" : [
+				{"name" : "Contributions-gov & Non-prof Not Ed",		"value" : 50000.0}
+			]
+		},
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 223122.85}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Art Museum",
+		"children" : [
+		{
+			"name" : "Contributions-gov & Non-prof Not Ed",
+			"children" : [
+				{"name" : "Contributions-gov & Non-prof Not Ed",		"value" : 2300000.0}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Mayor's Office Of Community Services",
+		"children" : [
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 3025024.1100000003}
+			]
+		}
+
+	]
+	},
+	{	"name" : "Board Of Building Standards",
+		"children" : [
+		{
+			"name" : "Personal Services (salary & Other Pay)",
+			"children" : [
+				{"name" : "Personal Services (salary & Other Pay)",		"value" : 62359.58}
+			]
+		}
+
+	]
+	}
+
+]
+}

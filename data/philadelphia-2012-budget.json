@@ -1,0 +1,101 @@
+
+
+{
+	"name": "Philadelphia Budget 2012",
+	"children": [
+				{
+				 "name": "CITY COUNCIL",
+				 "children": [
+				  {
+					 "name": "PERSONAL SERVICES (SALARY & OTHER PAY)",
+					 "children": [
+					  {"name": "ABBS,WILLIAM,E", "size": 22275.16},
+					  {"name": "ADAMS-BROADDUS,COLIA", "size": 37827.14},
+					  {"name": "ADORNO-TORRES,LESLIE,A", "size": 69377.73},
+					  {"name": "AKBAR,SADIQUE     DO", "size": 105935.65}
+					 ]
+				   },    
+				  {
+					 "name": "CLEANING AND LAUNDERING",
+					 "children": [
+					  {"name": ",CLEANING OF MINI BLINDS", "size": 460},
+					  {"name": ",CLEANING OF MINI BLINDS", "size": 120},
+					  {"name": "S MORANTZ MINI BLINDS CLEANED", "size": 130}
+					 ]
+				   },
+				  {
+					 "name": "TELEPHONE",
+					 "children": [
+					  {"name": "DAVID FORDE,MONTHLY CONSTANT CONTACT FEE", "size": 30},
+					  {"name": "DAVID FORDE,MONTHLY CONSTANT CONTACT FEE", "size": 30},
+					  {"name": "DAVID FORDE,MONTHLY CONSTANT CONTACT FEE", "size": 30},
+					  {"name": "DAVID FORDE,MONTHLY CONSTANT CONTACT FEE", "size": 30}
+					 ]
+				   }
+				   ]
+				},
+				{
+				 "name": "POLICE",
+				 "children": [
+				  {
+					 "name": "PERSONAL SERVICES (SALARY & OTHER PAY)",
+					 "children": [
+					  {"name": "ABBS,WILLIAM,E", "size": 25275.16},
+					  {"name": "ADAMS-BROADDUS,COLIA", "size": 37827.14},
+					  {"name": "ADORNO-TORRES,LESLIE,A", "size": 99377.73},
+					  {"name": "AKBAR,SADIQUE     DO", "size": 15935.65}
+					 ]
+				   },    
+				  {
+					 "name": "CLEANING AND LAUNDERING",
+					 "children": [
+					  {"name": ",CLEANING OF MINI BLINDS", "size": 4600},
+					  {"name": ",CLEANING OF MINI BLINDS", "size": 1200},
+					  {"name": "S MORANTZ MINI BLINDS CLEANED", "size": 13000}
+					 ]
+				   },
+				  {
+					 "name": "TELEPHONE",
+					 "children": [
+					  {"name": "DAVID FORDE,MONTHLY CONSTANT CONTACT FEE", "size": 70},
+					  {"name": "DAVID FORDE,MONTHLY CONSTANT CONTACT FEE", "size": 20},
+					  {"name": "DAVID FORDE,MONTHLY CONSTANT CONTACT FEE", "size": 80},
+					  {"name": "DAVID FORDE,MONTHLY CONSTANT CONTACT FEE", "size": 30}
+					 ]
+				   }
+				   ]
+				},
+				{
+				 "name": "FIRE",
+				 "children": [
+				  {
+					 "name": "PERSONAL SERVICES (SALARY & OTHER PAY)",
+					 "children": [
+					  {"name": "ABBS,WILLIAM,E", "size": 222275.16},
+					  {"name": "ADAMS-BROADDUS,COLIA", "size": 147827.14},
+					  {"name": "ADORNO-TORRES,LESLIE,A", "size": 49377.73},
+					  {"name": "AKBAR,SADIQUE     DO", "size": 135935.65}
+					 ]
+				   },    
+				  {
+					 "name": "CLEANING AND LAUNDERING",
+					 "children": [
+					  {"name": ",CLEANING OF MINI BLINDS", "size": 8060},
+					  {"name": ",CLEANING OF MINI BLINDS", "size": 120},
+					  {"name": "S MORANTZ MINI BLINDS CLEANED", "size": 1300}
+					 ]
+				   },
+				  {
+					 "name": "TELEPHONE",
+					 "children": [
+					  {"name": "DAVID FORDE,MONTHLY CONSTANT CONTACT FEE", "size": 60},
+					  {"name": "DAVID FORDE,MONTHLY CONSTANT CONTACT FEE", "size": 30},
+					  {"name": "DAVID FORDE,MONTHLY CONSTANT CONTACT FEE", "size": 60},
+					  {"name": "DAVID FORDE,MONTHLY CONSTANT CONTACT FEE", "size": 10}
+					 ]
+				   }
+				   ]
+				}
+	]
+}
+ 
